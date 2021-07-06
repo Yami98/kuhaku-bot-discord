@@ -17,4 +17,4 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 
 ## Authors and contribution
 
-- [Yami](https://twitter.com/DestroyerSan) `Author`
+- `Author` [Yami](https://twitter.com/DestroyerSan) 
