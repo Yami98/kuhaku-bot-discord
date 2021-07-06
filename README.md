@@ -5,7 +5,7 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 
 ## To do
 
-#### List that i want to add
+#### To do list
 
 
 | Name               | Description                |
