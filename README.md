@@ -7,6 +7,8 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 
 #### To do list!
 
+Lock
+
 
 | Name               | Description                |
 | :------------------| :------------------------- |
