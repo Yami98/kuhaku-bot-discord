@@ -18,4 +18,4 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 ## Authors and contribution
 
 - `Author` [Yami](https://twitter.com/DestroyerSan) 
-- `Contributor` [Pistachio](https://twitter.com/VoidFox7)
+- `Contributor` [Pistachino](https://twitter.com/VoidFox7)
