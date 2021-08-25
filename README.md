@@ -19,4 +19,5 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 
 - `DEV` [Yami](https://twitter.com/DestroyerSan) 
 - `DEV` [Pistachino](https://twitter.com/VoidFox7)
+- `DEV` [Rito](https://twitter.com/KousukeRito)
 - `Contributor` Ruru Reinhart
