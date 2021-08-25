@@ -3,9 +3,9 @@
 A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is just a mini project that i make to learning more.
 
 
-## To do
+## Command
 
-#### To do list
+#### Command list
 
 
 | Name               | Description                |
