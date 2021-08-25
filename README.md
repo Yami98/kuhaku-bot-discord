@@ -15,8 +15,8 @@ A discord bot for [my personal server](https://discord.gg/kVCVVuQCnF), this is j
 | NHentai (**nsfw**) | Adding NHentai API so i can preview doujin just from the 6 digit number |
 
 
-## Authors and contribution
+## DEV and contribution
 
-- `Author` [Yami](https://twitter.com/DestroyerSan) 
-- `Contributor` [Pistachino](https://twitter.com/VoidFox7)
+- `DEV` [Yami](https://twitter.com/DestroyerSan) 
+- `DEV` [Pistachino](https://twitter.com/VoidFox7)
 - `Contributor` Ruru Reinhart
